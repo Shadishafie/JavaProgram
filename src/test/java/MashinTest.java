@@ -6,7 +6,7 @@ import static java.lang.System.out;
 public class MashinTest {
 
     class Mashin {
-       //Dade
+   //Dade
 
         boolean AyaDarMashinbazAst;
         boolean AyaMashinRoshanAst;

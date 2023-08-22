@@ -4,12 +4,13 @@ import static java.lang.System.out;
  * Created by lenovo on 8/22/2023.
  */
 public class MashinTest {
-    class Mashin {
 
+    class Mashin {
+       //Dade
 
         boolean AyaDarMashinbazAst;
         boolean AyaMashinRoshanAst;
-
+        //method
         void Roshan() {
             out.println("Mashin Roshan Ast");
             AyaMashinRoshanAst = true;
